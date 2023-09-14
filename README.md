@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahmudhera
-- 👀 I’m interested in computational biology, bioinformatics, and theory
+- 👀 I’m interested in computational biology and bioinformatics, but my expertise is in modeling problems using mathematics, and solving them using algorithms. I come from a computer science background, and love to connect CS knowledge with biological problems and applications.
 - 🌱 I’m currently working in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/)
-- 💞️ I’m looking to collaborate on theoretical works with biological applications 
 - 📫 How to reach me: mahmudhera93@gmail.com
 
 <!---
