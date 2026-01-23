@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahmudhera
 - 👀 I’m interested in computational biology and bioinformatics, but my expertise is in modeling problems using mathematics, and solving them using algorithms. I come from a computer science background, and love to connect CS knowledge with biological problems and applications.
-- 🌱 I’m currently working in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/)
+- 🌱 I did my graduate studies in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/). Currently (January 2026) I am a postdoc at the Kreimer Lab (https://www.anatkreimer.com/).
 - 📫 How to reach me: mahmudur.r@rutgers.edu, mahmudhera93@gmail.com
 
 <!---
