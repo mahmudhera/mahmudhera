@@ -3,6 +3,8 @@
 - 🌱 I did my graduate studies in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/). Currently (January 2026) I am a postdoc at the Kreimer Lab (https://www.anatkreimer.com/).
 - 📫 How to reach me: mahmudur.r@rutgers.edu, mahmudhera93@gmail.com
 
+[![Mahmudur's GitHub stats](https://github-stats-extended.vercel.app/api?username=mahmudhera)](https://github.com/stats-organization/github-stats-extended)
+
 <!---
 mahmudhera/mahmudhera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
