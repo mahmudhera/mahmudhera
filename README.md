@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @mahmudhera
 - 👀 I’m interested in computational biology and bioinformatics, but my expertise is in modeling problems using mathematics, and solving them using algorithms. I come from a computer science background, and love to connect CS knowledge with biological problems and applications.
-- 🌱 I did my graduate studies in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/). Currently (January 2026) I am a postdoc at the Kreimer Lab (https://www.anatkreimer.com/).
-- 📫 How to reach me: mahmudur.r@rutgers.edu, mahmudhera93@gmail.com
-
-[![Mahmudur's GitHub stats](https://github-stats-extended.vercel.app/api?username=mahmudhera)](https://github.com/stats-organization/github-stats-extended)
+- 🌱 I did my graduate studies in KoslickiLab (https://koslickilab.github.io/Koslicki-lab-PSU/). Currently (Oct 2026) I am a Lane Postdoctoral Fellow at Carnegie Mellon University's Computational Biology Department
+- 📫 How to reach me: mrahmanh@andrew.cmu.edu, mahmudhera93@gmail.com
 
 <!---
 mahmudhera/mahmudhera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
